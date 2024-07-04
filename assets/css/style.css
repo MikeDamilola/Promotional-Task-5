@@ -95,8 +95,9 @@ img {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    /* background: rgba(var(--c-brand-rgb), 0.1); */
+    background: rgba(var(--c-brand-rgb), 0.1);
     color: var(--c-brand);
+    font-size: 34px;
     flex: none;
 }
 
